@@ -518,7 +518,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="Алина" LINGUISTIC_TYPE_REF="paragraph" PARTICIPANT="Мирон" TIER_ID="Miron@text">
+    <TIER ANNOTATOR="Алина" LINGUISTIC_TYPE_REF="paragraph" PARTICIPANT="Мирон" TIER_ID="Miron@speech">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
                 <ANNOTATION_VALUE>Эм [нрзб]</ANNOTATION_VALUE>
